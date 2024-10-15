@@ -1,0 +1,23 @@
+.menu {
+  display: none;
+  transition: all 1s;
+
+}
+
+.menuActive {
+  animation: moveTop .2s ease-in-out;
+  transition: all 1s;
+}
+
+
+/* Definindo os @keyframes */
+@keyframes moveTop {
+  0% {
+    opacity: 0%;
+  }
+
+  100% {
+    opacity: 100%;
+
+  }
+}
