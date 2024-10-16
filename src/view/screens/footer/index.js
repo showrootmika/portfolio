@@ -8,12 +8,12 @@ const FooterPage = () => {
                 <Box sx={{ display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center" }}>
                     <Typography variant="h2">MG</Typography>
                     <Box sx={{ paddingTop: "50px" }}>
-                        <SubText textAlign="justify" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." />
+                        <SubText textAlign="justify" text="Em uma rede, o mais importante e a qualidade de sua infraestrutura . Você sabia que ate o posicionamento de seus equipamentos pode e vão influenciam em sua  qualidade de sinal e navegação, uma instalação organizada, sem pontos soltas vai melhorar e muito sua conexão de rede. Quer saber mais marque ja seu orçamento e tenha uma internet de qualidade!" />
                     </Box>
                 </Box>
             </Box>
-            <Box height={"50px"}/>
-            <SubText text="© Copyright © @mmessiasdev" />
+            <Box height={"50px"} />
+            <SubText text="© Copyright @mmessiasdev" />
         </Box>
     </>
 }
